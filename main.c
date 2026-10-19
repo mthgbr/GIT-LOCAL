@@ -6,5 +6,6 @@ int main(void) {
     printf("Version 2 de mon programme !\n");
     printf("Version 3 de mon programme !\n");
     printf("Correction effectuee sur main !\n");
+    printf("Nouvelle fonctionnalite en cours !\n");
     return 0;
 }
